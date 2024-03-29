@@ -1,0 +1,12 @@
+Assignments Questions for OneToOne Uni-Directional Mapping
+
+1-> Find Department By Id									Done
+2-> Find Department By Name									Done
+3-> Find Department By Location								Done
+4-> Find Employee By Id										Done
+5-> Find Employees By Name									Done
+6-> Find Employees By Designation							Done
+7-> Find Employees By Salary								Done
+8-> Find Employees By Department Id							Done
+9-> Find Employees By Department Id And Name
+10-> Find Employees By Department Id and Location			Done
